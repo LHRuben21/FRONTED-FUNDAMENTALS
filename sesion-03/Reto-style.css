@@ -1,0 +1,21 @@
+html{
+    background-color: cadetblue;
+}
+.principal{
+    display: flex;
+    max-width: 70%;
+    margin: auto;
+    align-items: center;
+}
+.video{
+    display: flex;
+    width: 50%;
+    margin: auto;
+    align-items: center;
+}
+.texto >h3{
+    font-family: "Alegreya", serif;
+    font-size: 40px;
+    line-height: 48px;
+    color: #025157;
+}
